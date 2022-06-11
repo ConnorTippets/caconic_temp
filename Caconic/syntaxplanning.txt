@@ -1,0 +1,23 @@
+#variable assignment
+type name = value
+
+#functions
+func name arg,u,men,ts:
+	code
+
+#if statements
+if expression:
+	code
+else:
+	other code
+
+#whiles
+while expression:
+	code
+
+#for loops
+for x in list:
+	code
+
+#code
+python code
